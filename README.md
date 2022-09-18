@@ -102,3 +102,17 @@ https://coolors.co/
 
 #### Accessability checker
 https://accessibe.com/
+
+
+## Chapter 4
+### Units
+
+#### Mozilla
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units
+
+- Pixels px
+- Root main element rem (use for fonts)
+- Parent element em (object size, padding, margin etc)
+- Character (column widths)
+- Viewport height (1% of viewport height)
+- Viewport width (1% of viewport width)

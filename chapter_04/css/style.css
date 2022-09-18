@@ -1,0 +1,60 @@
+/*Pallette*/
+/* 1D3557 Prussian blue*/
+/* 457B9D Celadon Blue */
+/* A8DADC Powder Blue */
+/* F1FAEE Honey Dew */
+/* E63946 Imperial Red */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background: #1D3557; /*Prussian blue*/
+    color: #A8DADC;
+}
+
+.main-heading {
+    width: 50%;
+}
+
+h1 { 
+    border: 2px #E63946 solid;
+}
+
+.size-px {
+    font-size: 20px;
+    font-style: italic;
+}
+
+main {
+    font-size: 1.5rem;
+}
+
+.size-rem {
+    font-size: 1.5rem;
+    font-style: italic;
+}
+
+.size-em {
+    font-size: 1.5em;
+    font-style: italic;
+}
+
+.size-percentage {
+    width: 50%;
+    font-size: 1.5em;
+}
+
+.color-title {
+    color: #F1FAEE;
+}
+
+.color-paragraph {
+    color: #457B9D;
+}
+
+.color-red {
+    color: #E63946;
+}
