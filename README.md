@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=n4R2E7O-Ngo
 <p style="color:red">I am red</p>
 ```
 
-## Chapter 1
+## Chapter 2
 ### Selectors
 
 - remember last rule wins unless specificity overrides
@@ -65,3 +65,40 @@ div, h2 {
 div h2 {
     color: silver;
 }
+
+## Chapter 3
+### Colors
+
+#### text
+```
+.color-text {
+    color: red;
+}
+```
+
+#### rgb/rgba
+```
+.color-rgb {
+    color: rgb(0, 255, 0);
+}
+```
+
+#### hex
+```
+.color-hex {
+    color: #00FFFF
+}
+```
+
+#### hsl/hsla
+```
+.color-hsl {
+    color: hsl(0, 92%, 52%)
+}
+```
+
+#### Palette generator
+https://coolors.co/
+
+#### Accessability checker
+https://accessibe.com/

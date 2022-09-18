@@ -1,0 +1,23 @@
+* {
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background: papayawhip;
+    color: darkblue;
+}
+
+.color-text {
+    color: red;
+}
+
+.color-rgb {
+    color: rgb(0, 255, 0);
+}
+
+.color-hex {
+    color: #00FFFF
+}
+
+.color-hsl {
+    color: hsl(0, 92%, 52%)
+}
