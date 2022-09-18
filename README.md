@@ -25,3 +25,43 @@ https://www.youtube.com/watch?v=n4R2E7O-Ngo
 <p style="color:red">I am red</p>
 ```
 
+## Chapter 1
+### Selectors
+
+- remember last rule wins unless specificity overrides
+
+#### reset 
+* {
+    font-family: Arial;
+}
+
+#### element
+```
+p {
+    color: purple;
+}
+```
+
+#### class
+```
+.grey {
+    color: grey;
+}
+```
+
+#### id
+```
+#second {
+    color: pink;
+}
+```
+
+#### div or h2
+div, h2 {
+    color: blue;
+}
+
+#### div and h2 (nested)
+div h2 {
+    color: silver;
+}
